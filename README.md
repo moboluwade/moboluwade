@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### Hey there👋, my name is Boluwade, you can call me mob_codes if that's any better.
+### Here's a couple things about me
+- 🔭 I’m currently working on my porfolio and building MERN stack apps.
+- 🌱 I’m currently learning React & web 3 development with Solidity.
+- 🤔 I look forward to contributing to open source.
+- ⚡ Fun fact: I'm hoping to learn game development. Phaser sounds like a good start.
 
 <!--
 **moboluwade/moboluwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
