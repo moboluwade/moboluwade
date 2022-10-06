@@ -1,6 +1,7 @@
 
 ### Hey there👋, my name is Boluwade, you can call me mob_codes if that's any better.
-### Here's a couple things about me
+___
+### Here's a couple things about me :
 - 🔭 I’m currently working on my porfolio and building MERN stack apps.
 - 🌱 I’m currently learning React & web 3 development with Solidity.
 - 🤔 I look forward to contributing to open source.
