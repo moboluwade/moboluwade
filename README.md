@@ -3,7 +3,7 @@
 ___
 ### Here's a couple things about me :
 - 🔭 I’m currently working on my porfolio and building MERN stack apps.
-- 🌱 I’m currently learning React & web 3 development with Solidity.
+- 🌱 I’m currently building apps and solutions with Nextjs.
 - 🤔 I look forward to contributing to open source.
 - ⚡ Fun fact: I'm hoping to learn game development. Phaser sounds like a good start.
 
