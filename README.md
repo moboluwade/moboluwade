@@ -1,6 +1,20 @@
 
 ### Hey there👋, my name is Boluwade, you can call me mob_codes if that's any better.
 ___
+
+<div align="left">
+	<p align="left">
+		<a href="https://twitter.com/moboluwade_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mob_codes" height="30" width="40" />
+		</a>
+		<a href="https://linkedin.com/in/boluwade-folarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="folarin-boluwade" height="30" width="40" />
+		</a>
+<!-- 		<a href="https://hashnode.com/@moboluwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@moboluwade" height="30" width="40" />
+		</a> -->
+	<a  href="https://app.daily.dev/moboluwade">
+  	<img align="right" src="https://api.daily.dev/devcards/f7cc789ee3974e19aebdd62bc899e3c8.png?r=y71" width="256" alt="Boluwade Folarin's Dev Card"/>
+	</a>
+</div>
+
 ### Here's a couple things about me :
 - 🔭 I’m currently working on my porfolio and building MERN stack apps.
 - 🌱 I’m currently building apps and solutions with Nextjs.
@@ -21,5 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/moboluwade"><img src="https://api.daily.dev/devcards/f7cc789ee3974e19aebdd62bc899e3c8.png?r=y71" width="400" alt="Boluwade Folarin's Dev Card"/></a>
