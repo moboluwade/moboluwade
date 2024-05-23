@@ -1,9 +1,8 @@
 
-### Hey there👋, my name is Boluwade, you can call me mob_codes if that's any better.
-___
+# 👋 Hi, I'm MoB.
 
 <div align="left">
-	<p align="left">
+	<p align="right">
 		<a href="https://twitter.com/moboluwade_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mob_codes" height="30" width="40" />
 		</a>
 		<a href="https://linkedin.com/in/boluwade-folarin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="folarin-boluwade" height="30" width="40" />
