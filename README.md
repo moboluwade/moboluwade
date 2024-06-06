@@ -9,6 +9,7 @@
 </div>
 
 ### Here's a couple things about me :
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on my porfolio and building MERN stack apps.
 - 🌱 I’m currently building apps and solutions with Nextjs.
 - 🤔 I look forward to contributing to open source.
