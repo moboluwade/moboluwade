@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on my porfolio and building MERN stack apps.
 - 🌱 I’m currently building apps and solutions with Nextjs.
 - 🤔 I look forward to contributing to open source.
-- ⚡ Fun fact: I'm hoping to learn game development. Phaser sounds like a good start.
+- ⚡ Fun fact: I'm hoping to learn game development. **Phaser** sounds like a good start.
 - I'm an Engineering Senior at the _University of Ilorin_
 - I'm building interesting software with Reactjs and Nextjs
 
