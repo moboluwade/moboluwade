@@ -1,11 +1,13 @@
 # 👋 Hi, I'm MoB.
 
+<!--
 <div align="left">
 	<p align="right">
 	<a href="https://app.daily.dev/moboluwade">
   	<img align="right" src="https://api.daily.dev/devcards/f7cc789ee3974e19aebdd62bc899e3c8.png?r=y71" width="256" alt="Boluwade Folarin's Dev Card"/>
 	</a>
 </div>
+-->
 
 ### Here's a couple of things about me:
 - 😄 **Pronouns**: He/Him
