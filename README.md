@@ -13,7 +13,7 @@
 - 😄 **Pronouns**: He/Him
 - 🔭 I’m currently working on my **portfolio** and building real-world solutions.
 - 🌱 I’m building with **React** to create perfomant web apps.
-- 💻 Contributing to software with **Typescript**, **Rust**, and **Go**.
+- 💻 Contributing to software with **Typescript**, **Rust**, **Go**, and **Python**.
 - ⚡ Fun fact: I'm hoping to learn **2D game development**... maybe. Phaser might be my starting point.
 - 🎓 A Graduate Engineer from **University of Ilorin**.
 - 🌍 OBJECTIVE: Increasing the average user's screentime.👌🏾
