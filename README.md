@@ -26,6 +26,7 @@
 <div>
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript Badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python Badge" /></a>
 </div>
 
 #### Top Technologies & Tools:
