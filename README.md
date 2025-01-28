@@ -16,7 +16,7 @@
 - 💻 Contributing to software with **Typescript**, **Rust**, **Go**, and **Python**.
 - ⚡ Fun fact: I'm hoping to learn **2D game development**... maybe. Phaser might be a good start.
 - 🎓 A Graduate Engineer from **University of Ilorin**.
-- 🌍 OBJECTIVE: Increasing the average user's screentime.👌🏾
+- 🌍 OBJECTIVE: Increase the average user's screentime.👌🏾
 
 ---
 
