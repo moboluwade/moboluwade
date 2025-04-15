@@ -11,8 +11,8 @@
 
 ### Here's a couple of things about me:
 - 😄 **Pronouns**: He/Him
-- 🔭 I’m currently working on my **portfolio** and building real-world solutions.
-- 🌱 I’m building with **React** to create perfomant web apps.
+- 🔭 I’m currently working on my **portfolio** and building stuff I think is neat
+- 🌱 I’m building with **React** and **Nextjs** for performant web apps.
 - 💻 Contributing to software with **Typescript**, **Rust**, **Go**, and **Python**.
 - ⚡ Fun fact: I'm hoping to learn **2D game development**... maybe. Phaser might be a good start.
 - 🎓 A Graduate Engineer from **University of Ilorin**.
