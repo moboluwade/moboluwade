@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my **portfolio** and building stuff I think is neat
 - 🌱 I’m building with **React** and **Nextjs** for performant web apps.
 - 💻 Contributing to software with **Typescript**, **Rust**, **Go**, and **Python**.
-- ⚡ Fun fact: I'm hoping to learn **2D game development**... maybe. Phaser might be a good start.
+- ⚡ Fun fact: I'm hoping to learn **2D game development**... maybe. Phaser might be a good start. Also, I don't use Vim btw (...yet)
 - 🎓 A Graduate Engineer from **University of Ilorin**.
 - 🌍 OBJECTIVE: Increase the average user's screentime.👌🏾
 
